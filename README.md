@@ -68,6 +68,3 @@ Product, when created must belong to a category and contain all valid product in
   * ***/products/{prodId}/get-invoice*** : Get product invoice with product-SKU, billDetails and all details of product.
 - **Invalid:**
   * ***/\**** : All invalid routes are handled by error response.
-
-
->[Mridul Gupta](https://www.linkedin.com/in/mridul-gupta2021/)
