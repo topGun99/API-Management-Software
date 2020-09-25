@@ -1,6 +1,6 @@
-# Product Management API - Final submission VAP
+# API Management Software
 
-This is a generalized Product Management API that can be integrated with an application for ease in product management. 
+This is a generalized API Management Software that can be integrated with an application for ease in product management. 
 It can be used for management of products that belong to, single category (like a pharmacy store) or multiple categories (like ebay). 
 The API is written using `Node.js` , `Express.js` and is documented using `OAS 3.0` or `swagger`
 
