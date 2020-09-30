@@ -4,9 +4,6 @@ This is a generalized API Management Software that can be integrated with an app
 It can be used for management of products that belong to, single category (like a pharmacy store) or multiple categories (like ebay). 
 The API is written using `Node.js` , `Express.js` and is documented using `OAS 3.0` or `swagger`
 
-## [Swagger Hub Documentation Link](https://app.swaggerhub.com/apis/mgvit2021/ProductManagementSystemAPI/1.0.0)
-
-
 ### Installation
 
 Install node js from [here](https://nodejs.org/en/download/)  
@@ -48,8 +45,6 @@ Product, when created must belong to a category and contain all valid product in
 * Product search is dynamic and can display products which match even some part of query.
 
 * Categories are placed in a tree-like data-structure. If deleted, child categories of the root will move one level up in the tree.
-
-* API follows the [RESTful architecture](https://restfulapi.net/)
 
 ## API -all End Points:
 - **Home:**
